@@ -2,7 +2,7 @@
 
 Fox Unlimited Warp a Best Script That you can get Unlimited Warp+ 1.1.1.1 DNS on All Platform
 
-Feature :
+# Feature :
 
 ~> Unlimited Get Warp + Per 1GB
 
@@ -10,7 +10,7 @@ Feature :
 
 ~> Free to Use !
 
-Installation :
+# Installation :
 
 $  apt update && apt upgrade -y
 
